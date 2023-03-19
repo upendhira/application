@@ -1,3 +1,2 @@
 This is FileA
 This is the change in file
-After tagging
