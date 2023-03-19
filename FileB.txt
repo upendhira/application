@@ -2,3 +2,4 @@ This is FileB
 Lets make a change
 Make another Change
 This is for squash merge in B
+test
